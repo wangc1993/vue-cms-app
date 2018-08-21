@@ -4,7 +4,7 @@
 
 ## 技术栈
 
-vue、vue.router、axios、mui、mint-ui、vue-preview
+vue、vue.router、axios、mint-ui、vue-preview
 
 ## 效果图
 <h4>首页和新闻列表页：</h4>
